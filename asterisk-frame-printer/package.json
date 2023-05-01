@@ -1,11 +1,15 @@
 {
   "name": "asterisk-frame-printer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a node package that prints messages to the console surrounded by top and bottom lines asterisks",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/georgeokez/npm-packages.git"
+  }
 }
