@@ -1,6 +1,6 @@
 {
   "name": "asterisk-frame-printer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is a node package that prints messages to the console surrounded by top and bottom lines asterisks",
   "main": "index.js",
   "scripts": {
